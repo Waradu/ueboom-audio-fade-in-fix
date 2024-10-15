@@ -7,8 +7,8 @@ So here is a fix (win11-only).
 You need to build it yourself.
 
 1. [Download rust](https://www.rust-lang.org/learn/get-started) and clone this repo (git clone or "<> Code" > "Download ZIP" > unzip it)
-2. Change the name in `background-ueboom-fix\src\main.rs` (line 9) from `Headphones (WaraBoom)` to your devicename
-to get the devicename just look here:
+2. Change the name in `background-ueboom-fix\src\main.rs` (line 9) from `Headphones (WaraBoom)` to your devicename.
+    to get the devicename just look here:
 
     ![image](image.png) 
 
