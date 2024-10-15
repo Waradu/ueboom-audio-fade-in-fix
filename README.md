@@ -15,7 +15,7 @@ You need to build it yourself.
     ("Headphones (WaraBoom)" in my case)
 4. finally run `cargo build --release` in the directory you cloned this repo to
 after that the files are in `target/release/*.exe`
-    - background-ueboom-fix.exe is the exe you need to run (further down i'll explain what it does)
+    - background-ueboom-fix.exe is the exe you need to run (further down i'll explain what it does) (better put it in your startup folder `win+r > shell:startup > enter`)
     - restart-background-ueboom-fix.exe is the exe to restart if you for example reconnect the UEBoom (put it in your startmenu folder `C:\Users\{username}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs` so you can just search it)
 
 #### background-ueboom-fix.exe
